@@ -2,6 +2,7 @@
 
 A Spring Boot + Thymeleaf based web application that helps users track and analyze their expenses with powerful insights. This project is designed to provide a clean, interactive, and user-friendly dashboard to manage personal finances with charts, filters, and reports.
 
+
 ---
 
 ## 🚀 Features
